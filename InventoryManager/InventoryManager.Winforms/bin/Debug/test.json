@@ -1,0 +1,18 @@
+{
+  "Players": [
+    {
+      "Name": "Jane Doe",
+      "Health": 100,
+      "Score": 150,
+      "Inventory": []
+    }
+  ],
+  "Items": [
+    {
+      "Name": "Book"
+    },
+    {
+      "Name": "Lantern"
+    }
+  ]
+}

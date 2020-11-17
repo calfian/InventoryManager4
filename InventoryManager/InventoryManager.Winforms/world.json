@@ -1,0 +1,74 @@
+{
+  "Players": [
+    {
+      "Name": "Jane Doe",
+      "Health": 50,
+      "Score": 150,
+      "Inventory": [
+        "Book",
+        "Lantern",
+        "Sword",
+        "Shield"
+      ],
+      "EquippedItems": {
+        "LeftHand": "Shield",
+        "RightHand": "Sword"
+      }
+    },
+    {
+      "Name": "John Smith",
+      "Health": 80,
+      "Score": 25,
+      "Inventory": [
+        "Book",
+        "Helmet"
+      ],
+      "EquippedItems": {
+        "Head": "Helmet"
+      }
+    },
+    {
+      "Name": "Ima Knight",
+      "Health": 90,
+      "Score": 125,
+      "Inventory": [
+        "Lantern"
+      ],
+      "EquippedItems": {
+        "LeftHand": "Lantern"
+      }
+    },
+    {
+      "Name": "Test",
+      "Health": 0,
+      "Score": 0,
+      "Inventory": [],
+      "EquippedItems": {
+        
+      }
+
+    }
+  ],
+  "Items": [
+    {
+      "Name": "Book",
+      "Weight": 10
+    },
+    {
+      "Name": "Lantern",
+      "Weight": 20
+    },
+    {
+      "Name": "Shield",
+      "Weight": 50
+    },
+    {
+      "Name": "Sword",
+      "Weight": 35
+    },
+    {
+      "Name": "Helmet",
+      "Weight": 25
+    }
+  ]
+}
